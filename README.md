@@ -2,7 +2,7 @@
 👋 I’m currently studying **Computer Science**<br>📫 How to reach me **angelo.mouawad@gmail.com**
 
 # 💻 My Websites:
-eventswithechoes.com
+[eventswithechoes.com](https://eventswithechoes.com/)
 
 # 💻 Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
