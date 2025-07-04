@@ -1,8 +1,9 @@
-# 💫 About Me:
-👋 I’m currently studying **Computer Science**<br>📫 How to reach me **angelo.mouawad@gmail.com**
+# 💻 About Me:
+I’m currently studying **Computer Science**<br>Reach me **angelo.mouawad@gmail.com**
 
 # 💻 My Websites:
-[eventswithechoes.com](https://eventswithechoes.com/)
+Echoes Events [eventswithechoes.com](https://eventswithechoes.com/)
+Grow Consultancy [consultwithgrow.com](https://consultwithgrow.com/)
 
 # 💻 Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
