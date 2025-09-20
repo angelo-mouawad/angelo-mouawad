@@ -4,6 +4,7 @@ Reach me **angelo.mouawad@gmail.com**
 
 # 💻 My Websites:
 Echoes Events [eventswithechoes.com](https://eventswithechoes.com/)<br>
+Samar Holidays [samarholidays.com](https://samarholidays.com/)<br>
 Grow Consultancy [consultwithgrow.com](https://consultwithgrow.com/)
 
 # 💻 Languages:
