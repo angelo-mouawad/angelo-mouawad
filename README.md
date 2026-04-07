@@ -1,21 +1,36 @@
-# 💻 About Me:
-I’m currently studying **Computer Science**<br>
-Reach me **angelo.mouawad@gmail.com**
+# 👋 Hi, I'm Angelo
 
-# 💻 My Websites:
-Echoes Events [eventswithechoes.com](https://eventswithechoes.com/)<br>
-Samar Holidays [samarholidays.com](https://samarholidays.com/)<br>
-Grow Consultancy [consultwithgrow.com](https://consultwithgrow.com/)
+Computer Science student · Web developer · Open to opportunities
 
-# 💻 Languages:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) 
+📬 [angelo.mouawad@gmail.com](mailto:angelo.mouawad@gmail.com)
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelomouawad) 
+---
+
+## 🌐 My Websites
+
+- [Echoes Events](https://eventswithechoes.com/)
+- [Samar Holidays](https://samarholidays.com/)
+- [Grow Consultancy](https://consultwithgrow.com/)
+
+---
+
+## 💻 Languages & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
+
+---
+
+## 📱 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-mouawad)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelomouawad)
