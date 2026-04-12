@@ -6,14 +6,6 @@ Computer Science student · Web developer · Open to opportunities
 
 ---
 
-## 🌐 My Websites
-
-- [Echoes Events](https://eventswithechoes.com/)
-- [Samar Holidays](https://samarholidays.com/)
-- [Grow Consultancy](https://consultwithgrow.com/)
-
----
-
 ## 💻 Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
