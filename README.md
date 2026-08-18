@@ -1,30 +1,33 @@
-# 👋 Hi, I'm Angelo
+Hey, I'm Angelo 👋
 
-Computer Science student · Web developer · Open to opportunities
+I'm a Computer Science student who enjoys turning ideas into things that actually work.
 
-📬 [angelo.mouawad@gmail.com](mailto:angelo.mouawad@gmail.com)
+I like understanding how things fit together — from the interface someone interacts with, to the code behind it, the data it uses, and the systems that keep it running.
 
----
+My studies have given me a broad foundation across software development, systems, networking, databases, cybersecurity, cloud, and data. But most of all, they've taught me to stay curious, keep learning, and enjoy the process of figuring things out.
 
-## 💻 Languages & Tools
+I'm still growing, still building, and always looking for the next thing to learn.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
+What I work with
 
----
+Development
+JavaScript · TypeScript · React · Next.js · Java · Spring Boot · Python
 
-## 📱 Socials
+Data & Systems
+SQL · Databases · Linux · Networking · Cybersecurity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-mouawad-02089329a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelomouawad)
+Currently exploring
+Software architecture · Cloud · AI & Data · Building better products
 
----
+A little more
+
+🎓 Computer Science student
+💻 Interested in software & technology
+🌱 Always learning something new
+🤝 Open to opportunities and interesting projects
+
+Let's connect
+
+📬 angelo.mouawad@gmail.com
+💼 LinkedIn
+📸 Instagram
