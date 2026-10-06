@@ -1,6 +1,6 @@
 # Angelo Mouawad
 
-## 👋 About Me
+## About Me
 
 I'm Angelo, a Computer Science student who enjoys turning ideas into things that actually work.
 
@@ -10,29 +10,34 @@ My studies have given me a broad foundation across software development, systems
 
 I'm still growing, still building, and always looking for the next thing to learn.
 
-## 🛠️ What I Work With
+## What I Work With
 
-### Development
+### Programming languages
 
-`JavaScript` `TypeScript` `React` `Next.js` `Java` `Spring Boot` `Python`
+`Python` `R` `Java` `TypeScript` `JavaScript` `SQL` `C++` `PHP` `HTML` `CSS`
 
-### Data & Systems
+### AI and data
 
-`SQL` `Databases` `Linux` `Networking` `Cybersecurity`
+`PyTorch` `XGBoost` `scikit-learn` `pandas` `NumPy` `Jupyter` `LLM integration`
 
-### Currently Exploring
+### Frameworks
 
-`Software Architecture` `Cloud` `AI & Data` `Building Better Products`
+`Spring Boot` `Spring Security` `React` `Next.js` `Vue 3` `FastAPI` `Tailwind CSS`
 
-## 🌱 A Little More
+### Databases
 
-- 🎓 Computer Science student
-- 💻 Interested in software & technology
-- 🌱 Always learning something new
-- 🤝 Open to opportunities and interesting projects
+`PostgreSQL` `MongoDB` `H2` `Azure Database for PostgreSQL` `Flyway migrations`
 
-## 🤝 Let's Connect
+### DevOps and Cloud
 
-- 📬 **Email:** [angelo.mouawad@gmail.com](mailto:angelo.mouawad@gmail.com)
-- 💼 **LinkedIn**
-- 📸 **Instagram**
+`Microsoft Azure` `GitHub Actions` `CI/CD pipelines` `GitHub Packages` `Docker` `Docker Compose`
+
+### Tools and testing
+
+`Git` `GitHub` `Maven` `OpenAPI` `JUnit` `Mockito` `Jest` `Cypress` `Cucumber` `Scrum`
+
+## Let's Connect
+
+- **Email:** [angelo.mouawad@gmail.com](mailto:angelo.mouawad@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/angelo-mouawad/)
+- **Instagram:** [Instagram](https://www.instagram.com/angelomouawad)
